@@ -1,7 +1,7 @@
 # Angular 2 Blog Book
 [![Build Status][travis-badge]][travis-badge-url]
 
-This repository holds the TypeScript source code of the Book Blog based on [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html).
+This repository holds the TypeScript source code of the Blog Book based on [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html).
 
 ## Prerequisites
 
@@ -60,7 +60,6 @@ Here are the test related scripts:
 
 ## Testing
 
-The QuickStart documentation doesn't discuss testing.
 This repo adds both karma/jasmine unit test and protractor end-to-end testing support.
 
 These tools are configured for specific conventions described below.
